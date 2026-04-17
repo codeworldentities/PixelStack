@@ -1,0 +1,40 @@
+<!-- Auto-generated: styles — stylesheet definitions v1965 -->
+<div class="styles-—-stylesheet-definitions-1965">
+  <header class="container">
+    <h2>styles — stylesheet definitions</h2>
+    <nav class="nav-1965">
+      <a href="#section-1">Overview</a>
+      <a href="#section-2">Details</a>
+    </nav>
+  </header>
+  <main class="header">
+    <div class="panel">
+      <p>Generated component for styles — stylesheet definitions</p>
+      <span class="badge badge-1965">v1965</span>
+    </div>
+  </main>
+</div>
+
+<style>
+.styles-—-stylesheet-definitions-1965 {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 19px;
+  padding: 32px;
+  background: #c1fec9;
+  border-radius: 4px;
+  border: 1px solid #95c1d2;
+}
+.styles-—-stylesheet-definitions-1965 .container {
+  color: #c9fc45;
+  font-size: 21px;
+  font-weight: 500;
+}
+.badge-1965 {
+  background: #95c1d2;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 9px;
+  font-size: 11px;
+}
+</style>
