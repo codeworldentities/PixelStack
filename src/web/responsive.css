@@ -1,0 +1,40 @@
+<!-- Auto-generated: responsive — responsive v1552 -->
+<div class="responsive-—-responsive-1552">
+  <header class="panel">
+    <h2>responsive — responsive</h2>
+    <nav class="nav-1552">
+      <a href="#section-1">Overview</a>
+      <a href="#section-2">Details</a>
+    </nav>
+  </header>
+  <main class="card">
+    <div class="content">
+      <p>Generated component for responsive — responsive</p>
+      <span class="badge badge-1552">v1552</span>
+    </div>
+  </main>
+</div>
+
+<style>
+.responsive-—-responsive-1552 {
+  display: flex;
+  grid-template-columns: 1fr 2fr;
+  gap: 9px;
+  padding: 25px;
+  background: #d183d3;
+  border-radius: 9px;
+  border: 1px solid #5607ff;
+}
+.responsive-—-responsive-1552 .panel {
+  color: #0c312e;
+  font-size: 19px;
+  font-weight: 400;
+}
+.badge-1552 {
+  background: #5607ff;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 11px;
+}
+</style>
